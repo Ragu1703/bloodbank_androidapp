@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "145979135313",
+    "firebase_url": "https://my-project-1488878180019.firebaseio.com",
+    "project_id": "my-project-1488878180019",
+    "storage_bucket": "my-project-1488878180019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145979135313:android:ee98f855d085cc3a",
+        "android_client_info": {
+          "package_name": "com.donars.srp.bloodbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145979135313-jepbkmj21f5i8qd4cadn2smeucd59taf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.donars.srp.bloodbank",
+            "certificate_hash": "cdf5265b3f6f6cacd736089330636f462534ca6b"
+          }
+        },
+        {
+          "client_id": "145979135313-7c1860sl665sb5eeckekph7pelkk15h7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHscydKb_q0rAw07uf63M_f_r_8ejo9S4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145979135313-7c1860sl665sb5eeckekph7pelkk15h7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
